@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
-### Full-Stack Web Developer & Graphic Designer
+# Hi there, I'm Rakib Hossen 👋
+### Full-Stack Web Developer 
 
 ![Banner Image](https://your-banner-url-here.com/banner.png) <!-- আপনার ব্যানারের লিংক দিন -->
 
 ---
 
 ### 💫 About Me
-I am a passionate Full-Stack Web Developer and Graphic Designer who loves crafting clean, minimalist, and user-friendly digital experiences. I bridge the gap between aesthetics and functionality.
+I am a passionate Full-Stack Web Developer dedicated to building clean, minimalist, and highly efficient web applications. With a strong foundation in Computer Science, I love turning complex problems into elegant, user-friendly digital solutions. I focus heavily on writing clean code and creating seamless user experiences.
 
 - 🚀 **Currently Exploring:** Advanced Next.js 15 features and modern backend architectures.
 - 💻 **Working On:** Building scalable web applications and refining brand identity systems.
