@@ -1,7 +1,7 @@
 # Hi there, I'm Rakib Hossen 👋
-### Full-Stack Web Developer 
+### Full-Stack Web Developer
 
-![Banner Image]([https://your-banner-url-here.com/banner.png](https://github.com/user-attachments/assets/793b05fb-7f16-4343-8978-8750e573f7f7) <!-- আপনার ব্যানারের লিংক দিন -->
+![Banner Image](https://github.com/user-attachments/assets/793b05fb-7f16-4343-8978-8750e573f7f7)
 
 ---
 
@@ -12,28 +12,27 @@ With a strong foundation in Computer Science and Engineering, I approach develop
 
 Over time, I have developed a strong appreciation for minimalist design principles and performance-driven development. I enjoy building scalable applications that are both robust in architecture and refined in user experience. My focus extends beyond just writing code—I strive to build systems that are maintainable, intuitive, and future-ready.
 
-- 🚀 **Currently Exploring:** Advanced capabilities of Next.js 15, server-side rendering optimizations, and modern backend architectures including microservices and API-driven ecosystems
-- 💻 **Working On:** Developing scalable full-stack web applications, improving system design skills, and refining brand identity systems that enhance digital presence
-- 🎓 **Education:** Pursuing a degree in Computer Science and Engineering, continuously strengthening my understanding of algorithms, data structures, and software engineering principles
+- 🚀 **Currently Exploring:** Advanced capabilities of Next.js 15, server-side rendering, and modern backend architectures.
+- 💻 **Working On:** Developing scalable full-stack web applications and improving system design skills.
+- 🎓 **Education:** Pursuing a degree in Computer Science and Engineering, strengthening my understanding of DSA and software principles.
 
 ---
 
 ### 🛠️ Skills & Technologies
-<!-- এখানে আইকন ব্যবহার করা হয়েছে, যা বুলেট পয়েন্টের চেয়ে দেখতে সুন্দর লাগে -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,js,cpp,c,figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,js,html,css,cpp,c,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radial" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radial" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devlowper&show_icons=true&theme=radial" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlowper&layout=compact&theme=radial" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radial" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlowper&theme=radial" alt="GitHub Streak" />
 </p>
 
 ---
@@ -41,5 +40,5 @@ Over time, I have developed a strong appreciation for minimalist design principl
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/vectorpointgrafix/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.behance.net/Vector-point" target="_blank"><img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.behance.net/Vector-point" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
